@@ -13,7 +13,7 @@
     // Note: If you have input files large than 200kb we highly recommend to check "async" mode example.
 
     // Get submitted form data
-    $apiKey = "stdintern@gmail.com_7623a22c60a0f5a95d17cf6d0fdd84d1a998a438eda1aa3e624614b3875f27083a444b1f"; // The authentication key (API Key). Get your own by registering at https://app.pdf.co
+    $apiKey = ""; // The authentication key (API Key). Get your own by registering at https://app.pdf.co
 
 
     // 1. RETRIEVE THE PRESIGNED URL TO UPLOAD THE FILE.
